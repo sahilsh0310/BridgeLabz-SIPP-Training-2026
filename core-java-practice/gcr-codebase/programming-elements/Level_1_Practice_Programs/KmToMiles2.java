@@ -1,0 +1,10 @@
+package Level_1_Practice_Programs;
+import java.util.Scanner;
+public class KmToMiles2 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int km = input.nextInt();
+        double miles = km * 1.6;
+        System.out.println("The total miles is " + miles + " mile for the given " + km + " km");
+    }
+}
