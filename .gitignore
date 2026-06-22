@@ -1,0 +1,17 @@
+# Compiled bytecode
+*.class
+*.jar
+*.zip
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+out/
+# Maven
+target/
+pom.xml.tag
+# Gradle
+.gradle/
+build/
